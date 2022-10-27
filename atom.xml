@@ -3,11 +3,11 @@
   <title>我的博客</title>
   
   
-  <link href="https://github.com/ThursdayV50/-.git/atom.xml" rel="self"/>
+  <link href="https://thursdayv50.github.io/project/atom.xml" rel="self"/>
   
-  <link href="https://github.com/ThursdayV50/-.git/"/>
+  <link href="https://thursdayv50.github.io/project/"/>
   <updated>2022-10-27T06:51:47.067Z</updated>
-  <id>https://github.com/ThursdayV50/-.git/</id>
+  <id>https://thursdayv50.github.io/project/</id>
   
   <author>
     <name>NewG</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/ThursdayV50/-.git/2022/10/27/hello-world/"/>
-    <id>https://github.com/ThursdayV50/-.git/2022/10/27/hello-world/</id>
+    <link href="https://thursdayv50.github.io/project/2022/10/27/hello-world/"/>
+    <id>https://thursdayv50.github.io/project/2022/10/27/hello-world/</id>
     <published>2022-10-27T04:06:34.307Z</published>
     <updated>2022-10-27T06:51:47.067Z</updated>
     
