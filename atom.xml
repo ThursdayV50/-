@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>我的博客</title>
+  <title>NewG</title>
   
-  
+  <subtitle>这是副标题</subtitle>
   <link href="https://thursdayv50.github.io/-/atom.xml" rel="self"/>
   
   <link href="https://thursdayv50.github.io/-/"/>
