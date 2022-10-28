@@ -6,7 +6,7 @@
   <link href="https://thursdayv50.github.io/atom.xml" rel="self"/>
   
   <link href="https://thursdayv50.github.io/"/>
-  <updated>2022-10-27T06:51:47.067Z</updated>
+  <updated>2022-10-28T11:35:25.995Z</updated>
   <id>https://thursdayv50.github.io/</id>
   
   <author>
@@ -17,18 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://thursdayv50.github.io/2022/10/27/hello-world/"/>
-    <id>https://thursdayv50.github.io/2022/10/27/hello-world/</id>
-    <published>2022-10-27T04:06:34.307Z</published>
-    <updated>2022-10-27T06:51:47.067Z</updated>
+    <title>关于博客</title>
+    <link href="https://thursdayv50.github.io/2022/10/28/%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://thursdayv50.github.io/2022/10/28/%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2/</id>
+    <published>2022-10-28T11:33:47.000Z</published>
+    <updated>2022-10-28T11:35:25.995Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="我的博客"><a href="#我的博客" class="headerlink" title="我的博客"></a>我的博客</h3><p>本博客利用Hexo+github搭建，并参考很多互联网上内容进行美化。</p><h3 id="关于Hexo"><a href="#关于Hexo" class="headerlink" title="关于Hexo"></a>关于Hexo</h3><p><a href="https://link.zhihu.com/?target=https://hexo.io/zh-cn/">Hexo</a>是一个快速、简洁且高效的博客框架。Hexo 使用 <a href="https://link.zhihu.com/?target=http://daringfireball.net/projects/markdown/">Markdown</a>（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。即把用户的markdown文件，按照指定的主题解析成静态网页。</p><p>更多信息<a href="https://hexo.io/zh-cn/index.html">关于Hexo</a></p><h3 id="关于github"><a href="#关于github" class="headerlink" title="关于github"></a>关于github</h3><p>作为开源代码库以及版本控制系统，Github拥有超过900万开发者用户。随着越来越多的应用程序转移到了云上，Github已经成为了管理软件开发以及发现已有代码的首选方法。</p><p>GitHub可以托管各种git库，并提供一个web界面，但它与外国的<a href="https://baike.baidu.com/item/SourceForge/6562141?fromModule=lemma_inlink">SourceForge</a>、[Google Code](<a href="https://baike.baidu.com/item/Google">https://baike.baidu.com/item/Google</a> Code?fromModule&#x3D;lemma_inlink)或中国的<a href="https://baike.baidu.com/item/coding/8921246?fromModule=lemma_inlink">coding</a>的服务不同，GitHub的独特卖点在于从另外一个项目进行分支的简易性。为一个项目贡献代码非常简单：首先点击项目站点的“fork”的按钮，然后将代码检出并将修改加入到刚才分出的代码库中，最后通过内建的“pull request”机制向项目负责人申请代码合并。已经有人将GitHub称为代码玩家的MySpace。</p><p>更多信息<a href="https://github.com/">关于github</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h3 id=&quot;我的博客&quot;&gt;&lt;a href=&quot;#我的博客&quot; class=&quot;headerlink&quot; title=&quot;我的博客&quot;&gt;&lt;/a&gt;我的博客&lt;/h3&gt;&lt;p&gt;本博客利用Hexo+github搭建，并参考很多互联网上内容进行美化。&lt;/p&gt;
+&lt;h3 id=&quot;关于Hexo&quot;&gt;&lt;a hre</summary>
       
     
     
